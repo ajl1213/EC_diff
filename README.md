@@ -1,2 +1,5 @@
-# EC_diff
+# Multi-omics profiling of human endothelial differentiation
 Investigating the dynamic cis-gene regulation throughout vascular EC differentiation
+
+## Summary
+The epigenomic remodeling and the pathological dysfunctions involved in vascular endothelial cell (EC) differentiation are largely unknown. Here, we construct extensive transcriptomic and epigenomic landscapes for human EC differentiation, sectioned at highly dense time points. This led to the identification of 42,309 differentiation stage-specific cis-regulatory elements (cREs), and revealed potential upstream regulators involved in EC lineage specification. Strikingly, our heritability analysis shows that cREs transiently activated during EC commitment harbor a significant amount of germline genetic variants related to cardiovascular, inflammatory, and autoimmune disorders, and colorectal cancer. We generate high-resolution 3D chromatin contact maps to accurately pin-down functional targets of these risk variants. Our integrative analysis leveraging clinical samples of colorectal tumor and normal mucosa demonstrates that differentiation stage-specific cREs may mediate transition of vascular ECs to tumor-associated ECs (TECs). This work provides a comprehensive view of chromatin dynamics related to vascular EC formation and its pathological associations.
